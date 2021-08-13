@@ -11,7 +11,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 * [GitHub Repository](https://github.com/brijeeta/Week3_HomeWork/)
 * [Deployed App link](https://brijeeta.github.io/Week3_HomeWork/)
-* [Password-Generator Demo](assets/demo/)
+* [Password-Generator Demo](./assets/demo/passwordgen.gif)
 
 
 ## This project has the following features: 
