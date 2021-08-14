@@ -5,7 +5,7 @@ var newPassword = [];
 var lowerCaseChars = "abcdefghijklmnopqrstuvwxyz";
 var upperCaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numberChars = "0123456789";
-var specialChars = " !#\"$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
+var specialChars = "!#\"$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
 var newCharacter;
 
 // Write password to the #password input
